@@ -1,0 +1,38 @@
+[
+    {
+        "quote": "Absense of evidence is not evidence of absense"
+    },
+    {
+        "quote": "Doubt is not a pleasant condition but uncertainty is an absurb one",
+        "source": "voltaire"
+    }, 
+    {
+        "quote": "Under Bayes' theorem, no theory is perfect. Rather, it is a work in progress, always subject to further refinement and testing.",
+        "source": "Nate Silver"
+    },
+    {
+        "quote": "Under Bayes' theorem, no theory is perfect. Rather, it is a work in progress, always subject to further refinement and testing.",
+        "source": "Nate Silver"
+    },
+    {        
+        "source": "Nassim Taleb",
+        "quote": "But it remains the case that you know what is wrong with a lot more confidence than you know what is right.",
+    },
+    {
+        "quote": "Injecting some confusion stabilizes the system.",
+        "source": "Nassim Taleb"
+    },
+    {
+        "quote": "On average people should be more skeptical when they see numbers. They should be more willing to play with the data themselves",
+        "source": "Nate Silver"
+    },
+    {
+        "quote": "Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.",
+        "source": "Daniel Kahneman"
+    },
+    {
+        "quote": "The illusion that we understand the past fosters overconfidence in our ability to predict the future.",
+        "source": "Daniel Kahneman",
+        "relevance": "Estimation is hard"
+    }
+]
