@@ -71,10 +71,15 @@
     "quote": "What is common to the greatest number has the least care bestowed upon it. Everyone thinks chiefly of his own, hardly at all of the common interest",
     "source": "Aristotle",
     "relevance": "Aristotle expressing the `tragedy of the commons`"
-}
+},
 {
     "quote": "Questions are place in your mind where answers fit. If you havent asked the question than the answer has nowhere to go",
     "source": "Clay Christensen",
     "relevance": "You cant retain knowledge without questioning it before you get the answer"
+},
+{
+    "quote": "Old systems are supplemented, not supplanted",
+    "source": "Tim Bergland",
+    "relevance": "Old computer technologies are not replaced by rather new technologies augment them"
 }
 ]
