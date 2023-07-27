@@ -35,51 +35,59 @@
         "source": "Daniel Kahneman",
         "relevance": "Estimation is hard"
     },
-{
-        "quote": "The essence of knowledge is, having it, to apply it; not having it, to confess your ignorance.  ",
-        "source": "Confucious",
-},
-{
-        "quote": " Real knowledge is to know the extens of one’s ignorance ",
-        "source": "Confucious",
-},
-{
-    "quote": "By failing to prepare you are preparing to fail",
-    "source": "Benjamin Franklin"
-},
-{
-    "quote": "In god we trust for everyone else we bring data",
-    "source": "W. Edwards Deming"
-},
-{
-    "quote": "It has harder to be kind than clever",
-    "source": "Jeff Bezos Grandfather"
-},
-{
-    "quote": "For all complex problems there is a simple, clear and wrong answer ",
-    "source": "H. L. Mencken"
-},
-{
-    "quote": "Education is what you remember after forget everything you learned in school",
-    "source": "Einstein"
-},
-{
-    "quote": "I am at the federal level a libertarian, at the state level a Republican, the muncipal level at Democrat and at the family and friends level a socialist",
-    "source": "Geoff and Vince Graham"
-},
-{
-    "quote": "What is common to the greatest number has the least care bestowed upon it. Everyone thinks chiefly of his own, hardly at all of the common interest",
-    "source": "Aristotle",
-    "relevance": "Aristotle expressing the `tragedy of the commons`"
-},
-{
-    "quote": "Questions are place in your mind where answers fit. If you havent asked the question than the answer has nowhere to go",
-    "source": "Clay Christensen",
-    "relevance": "You cant retain knowledge without questioning it before you get the answer"
-},
-{
-    "quote": "Old systems are supplemented, not supplanted",
-    "source": "Tim Bergland",
-    "relevance": "Old computer technologies are not replaced by rather new technologies augment them"
-}
+    {
+            "quote": "The essence of knowledge is, having it, to apply it; not having it, to confess your ignorance.  ",
+            "source": "Confucious",
+    },
+    {
+            "quote": " Real knowledge is to know the extens of one’s ignorance ",
+            "source": "Confucious",
+    },
+    {
+        "quote": "By failing to prepare you are preparing to fail",
+        "source": "Benjamin Franklin"
+    },
+    {
+        "quote": "In god we trust for everyone else we bring data",
+        "source": "W. Edwards Deming"
+    },
+    {
+        "quote": "It has harder to be kind than clever",
+        "source": "Jeff Bezos Grandfather"
+    },
+    {
+        "quote": "For all complex problems there is a simple, clear and wrong answer ",
+        "source": "H. L. Mencken"
+    },
+    {
+        "quote": "Education is what you remember after forget everything you learned in school",
+        "source": "Einstein"
+    },
+    {
+        "quote": "I am at the federal level a libertarian, at the state level a Republican, the muncipal level at Democrat and at the family and friends level a socialist",
+        "source": "Geoff and Vince Graham"
+    },
+    {
+        "quote": "What is common to the greatest number has the least care bestowed upon it. Everyone thinks chiefly of his own, hardly at all of the common interest",
+        "source": "Aristotle",
+        "relevance": "Aristotle expressing the `tragedy of the commons`"
+    },
+    {
+        "quote": "Questions are place in your mind where answers fit. If you havent asked the question than the answer has nowhere to go",
+        "source": "Clay Christensen",
+        "relevance": "You cant retain knowledge without questioning it before you get the answer"
+    },
+    {
+        "quote": "Old systems are supplemented, not supplanted",
+        "source": "Tim Bergland",
+        "relevance": "Old computer technologies are not replaced by rather new technologies augment them"
+    },
+    {
+        "quote": "Dont cry because its over. Smile because it happened" ,
+        "source": "Dr. Seuss"
+    },
+    {
+        "quote": "Write tests until fear is transformed into boredom" ,
+        "source": "Kent Beck"
+    }
 ]
