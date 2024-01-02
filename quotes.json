@@ -5,16 +5,16 @@
     {
         "quote": "Doubt is not a pleasant condition but uncertainty is an absurb one",
         "source": "voltaire"
-    }, 
-    {
-        "quote": "Under Bayes' theorem, no theory is perfect. Rather, it is a work in progress, always subject to further refinement and testing.",
-        "source": "Nate Silver"
     },
     {
         "quote": "Under Bayes' theorem, no theory is perfect. Rather, it is a work in progress, always subject to further refinement and testing.",
         "source": "Nate Silver"
     },
-    {        
+    {
+        "quote": "Under Bayes' theorem, no theory is perfect. Rather, it is a work in progress, always subject to further refinement and testing.",
+        "source": "Nate Silver"
+    },
+    {
         "source": "Nassim Taleb",
         "quote": "But it remains the case that you know what is wrong with a lot more confidence than you know what is right.",
     },
@@ -36,12 +36,12 @@
         "relevance": "Estimation is hard"
     },
     {
-            "quote": "The essence of knowledge is, having it, to apply it; not having it, to confess your ignorance.  ",
-            "source": "Confucious",
+        "quote": "The essence of knowledge is, having it, to apply it; not having it, to confess your ignorance.  ",
+        "source": "Confucious",
     },
     {
-            "quote": " Real knowledge is to know the extens of one’s ignorance ",
-            "source": "Confucious",
+        "quote": " Real knowledge is to know the extens of one’s ignorance ",
+        "source": "Confucious",
     },
     {
         "quote": "By failing to prepare you are preparing to fail",
@@ -83,15 +83,20 @@
         "relevance": "Old computer technologies are not replaced by rather new technologies augment them"
     },
     {
-        "quote": "Dont cry because its over. Smile because it happened" ,
+        "quote": "Dont cry because its over. Smile because it happened",
         "source": "Dr. Seuss"
     },
     {
-        "quote": "Write tests until fear is transformed into boredom" ,
+        "quote": "Write tests until fear is transformed into boredom",
         "source": "Kent Beck"
     },
     {
         "quote": "The fastest way to succeed, is to double your failure rate.",
         "source": "IBMS Thomas Watson"
+    },
+    {
+        "quote": "Best practices are always the best. By definition they are average",
+        "source": "Shane Parrish, Clear Thinking",
+        "interpretation": "If best practice means following what others are doing they are by definition average."
     }
 ]
