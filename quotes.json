@@ -113,5 +113,10 @@
         "quote": "I never allow myself to have an opinion unless I know the other sides argument better than they do",
         "source": "Charle Munger",
         "interpretation": "Challenge your beliefs by arguing from both sides"
+    },
+    {
+        "quote": "Nobody should care about measuring something if it doesn’t inform a significant bet of some kind",
+        "source": "Douglas Hubbarb, How to measure anything",
+        "interpretation": "Every metric must have a decision which it is informing. If there is a metric as what decision it informs"
     }
 ]
