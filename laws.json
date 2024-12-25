@@ -1,0 +1,20 @@
+[
+    {
+        "law": "Anything that can go wrong will go wrong.",
+        "name": "Murphys Law"
+    },
+    {
+        "law": "If an experiment works, something has gone wrong",
+        "name": "Fineagles Law"
+    },
+    {
+        "law": "Conway’s Law is the theory that organizations will design systems that copy their communication structure.",
+        "alternative": "A software system which is built will reflect the organization structure which builds the system",
+        "name": "Conways Law"
+    },
+    {
+        "law": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+        "source": "Godel Escher Bach",
+        "author": "Douglas Hofstadter"
+    }
+]
