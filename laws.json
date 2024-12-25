@@ -8,13 +8,32 @@
         "name": "Fineagles Law"
     },
     {
-        "law": "Conway’s Law is the theory that organizations will design systems that copy their communication structure.",
-        "alternative": "A software system which is built will reflect the organization structure which builds the system",
-        "name": "Conways Law"
+        "law": "Any piece of software reflects the organizational structure that produced it.",
+        "alternative": "Conway’s Law is the theory that organizations will design systems that copy their communication structure.",
+        "name": "Conways Law",
+        "source": "Melvin Conway"
     },
     {
         "law": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
         "source": "Godel Escher Bach",
-        "author": "Douglas Hofstadter"
+        "author": "Douglas Hofstadter",
+        "name": "Hofstadters Law"
+    },
+    {
+        "law": "Given enough eyeballs, all bugs are shallow.",
+        "author": "Linus Torvalds",
+        "name": "Torvalds Law"
+    },
+    {
+        "law": "When two or more explanations are offered for a phenomenon, the simplest full explanation is preferable.",
+        "name": "Occam's Razor"
+    },
+    {
+        "law": "for many phenomena 80% of consequences stem from 20% of the causes.",
+        "name": "Pareto Principle"
+    },
+    {
+        "law": "In a hierarchy, every employee tends to rise to his level of incompetence",
+        "name": "Peter Principle"
     }
 ]
