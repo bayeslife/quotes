@@ -130,5 +130,19 @@
     {
         "quote": "When the facts change, I change my mind. What do you do, sir?",
         "source": "John Maynard Keyes"
+    },
+    {
+        "quote": "Act only according to that maxium whereby you can at the same time become a univerisal law",
+        "source": "Kant",
+        "interpretation": "Categorical Imperative, if you do something you expect everyone else to do the same thing"
+    },
+    {
+        "quote": "The principles of justice are chosen behind a veil of ignorance",
+        "source": "John Rawls",
+        "interpretation": "When deciding on justice you shouldnt no who the decisions are being applied to"
+    },
+    {
+        "quote": "Those who are governed by reason desire nothing for themselves which they do not also desire for the rest of humanity",
+        "source": "Spinoza"        
     }
 ]
